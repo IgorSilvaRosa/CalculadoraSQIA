@@ -1,0 +1,6 @@
+@CalculadoraSQIA.API_HostAddress = http://localhost:5233
+
+GET {{CalculadoraSQIA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

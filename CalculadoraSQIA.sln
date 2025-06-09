@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSQIA.Domain", "CalculadoraSQIA.Domain\CalculadoraSQIA.Domain.csproj", "{ACB67471-B51F-4336-B8BC-339F4A16A0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSQIA.Application", "CalculadoraSQIA.Application\CalculadoraSQIA.Application.csproj", "{825AB840-A922-44E9-AC93-773647965C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSQIA.Infrastructure", "CalculadoraSQIA.Infrastructure\CalculadoraSQIA.Infrastructure.csproj", "{1F52516C-F676-4AE1-BE93-B8646E609BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSQIA.API", "CalculadoraSQIA.API\CalculadoraSQIA.API.csproj", "{241D0CA9-7DB8-4F4D-A1C3-588E45824890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSQIA.Test", "CalculadoraSQIA.Test\CalculadoraSQIA.Test.csproj", "{AEBAA709-15DB-4D5B-88FC-0D6A6F55CFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB67471-B51F-4336-B8BC-339F4A16A0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB67471-B51F-4336-B8BC-339F4A16A0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB67471-B51F-4336-B8BC-339F4A16A0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB67471-B51F-4336-B8BC-339F4A16A0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825AB840-A922-44E9-AC93-773647965C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825AB840-A922-44E9-AC93-773647965C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825AB840-A922-44E9-AC93-773647965C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825AB840-A922-44E9-AC93-773647965C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F52516C-F676-4AE1-BE93-B8646E609BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F52516C-F676-4AE1-BE93-B8646E609BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F52516C-F676-4AE1-BE93-B8646E609BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F52516C-F676-4AE1-BE93-B8646E609BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241D0CA9-7DB8-4F4D-A1C3-588E45824890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241D0CA9-7DB8-4F4D-A1C3-588E45824890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241D0CA9-7DB8-4F4D-A1C3-588E45824890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241D0CA9-7DB8-4F4D-A1C3-588E45824890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBAA709-15DB-4D5B-88FC-0D6A6F55CFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBAA709-15DB-4D5B-88FC-0D6A6F55CFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBAA709-15DB-4D5B-88FC-0D6A6F55CFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBAA709-15DB-4D5B-88FC-0D6A6F55CFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BEAAA8-1CC8-40AD-9CE9-7C211D34649C}
+	EndGlobalSection
+EndGlobal

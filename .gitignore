@@ -1,0 +1,63 @@
+## Compiled files
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+
+## Visual Studio
+.vscode/
+.vs/
+*.dbmdl
+*.pdb
+*.mdb
+
+## NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+## Rider
+.idea/
+
+## Others
+*.db
+*.sqlite
+*.bak
+*.cache
+*.zip
+*.tar.gz
+*.tmp
+
+## Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+## Environment
+.env
+*.secret
+
+## macOS / Linux / Windows junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+## dotnet watch & user secrets
+**/Properties/launchSettings.json
+**/secrets.json
